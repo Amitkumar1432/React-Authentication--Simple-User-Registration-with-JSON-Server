@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "YourName": "Amit Kumar",
+      "YourEmail": "amitkumar170121@gmail.com",
+      "Password": "123123",
+      "Repeatyourpassword": "123123",
+      "id": 1
+    },
+    {
+      "YourName": "Amit Kumar",
+      "YourEmail": "amitkumar170121@gmail.com",
+      "Password": "123456",
+      "Repeatyourpassword": "123456",
+      "id": 2
+    },
+    {
+      "YourName": "Amit Kumar",
+      "YourEmail": "amitkumar170121@gmail.com",
+      "Password": "123456",
+      "Repeatyourpassword": "123456",
+      "id": 3
+    },
+    {
+      "YourName": "Amit Kumar",
+      "YourEmail": "amitkumar170121@gmail.com",
+      "Password": "123456",
+      "Repeatyourpassword": "123456",
+      "id": 4
+    }
+  ]
+}
